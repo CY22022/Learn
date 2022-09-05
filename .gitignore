@@ -4,3 +4,6 @@ Logs
 Temp
 UserSettings
 .vsconfig
+/.vsconfig
+/Assembly-CSharp.csproj
+/Learn.sln
